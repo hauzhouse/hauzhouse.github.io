@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br" itemscope itemtype="https://schema.org/WebPage">
     <?php require_once '../assets/php/view/head.php' ?>
-
     <body>
         <header class="header interna preto">
             <div class="container">
@@ -271,9 +270,6 @@
                     <div class="clear"></div>
                 </div>
             </div>
-            <div class="conversar-footer" id="contato">
-                <?php require_once '../assets/php/view/form.php' ?>
-            </div>
             <div class="sombra-full"></div>
             <div class="msg-form">
                 <div class="balao">
@@ -284,5 +280,4 @@
         </main>
         <?php require_once '../assets/php/view/footer.php' ?>
     </body>
-
 </html>

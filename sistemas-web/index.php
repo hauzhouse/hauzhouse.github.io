@@ -86,9 +86,6 @@
                 </div>
             </div>
             -->
-        <div class="conversar-footer" id="contato">
-            <?php require_once '../assets/php/view/form.php' ?>
-        </div>
         <div class="sombra-full"></div>
         <div class="msg-form">
             <div class="balao">

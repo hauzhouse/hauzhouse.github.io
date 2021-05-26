@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br" itemscope itemtype="https://schema.org/WebPage">
     <?php require_once '../assets/php/view/head.php' ?>
-
     <body style="background: #f3f3f3;">
         <?php require_once '../assets/php/view/header.php' ?>
         <main>
@@ -94,12 +93,8 @@
                         </strong> </p>
                     <div class="plataformas">
                         <div class="item topScroll"> <img src="../assets/images/plataforma-magento.png" alt="Magento"> </div>
-
                         <div class="item topScroll"> <img src="../assets/images/plataforma-vtex.png" alt="Vtex"> </div>
-
-
                         <div class="item topScroll"> <img src="../assets/images/plataforma-shopify.png" alt="Shopfy"> </div>
-
                         <div class="item topScroll"> <img src="../assets/images/plataforma-ml.png" alt="Mercado Livre"> </div>
                         <div class="item topScroll"> <img src="../assets/images/plataforma-rakuten.png" alt="Rakuten"> </div>
                         <div class="item topScroll"> <img src="../assets/images/plataforma-woo.png" alt="Woo Commerce"> </div>
@@ -111,13 +106,10 @@
                     <h2 class="titulo-sites center topScroll">
                         Alguns de nossos Cases
                     </h2>
-                    <a href="portfolio">
+                    <a href="/cases">
                         <div class="image topScroll"> <img class="desk" src="../assets/images/mockups_devices/ega.PNG" alt="Alguns de nossos Cases"> <img class="mob" src="../assets/images/mockups_devices/ega.PNG" alt="Alguns de nossos Cases"> </div>
                     </a>
                 </div>
-            </div>
-            <div class="conversar-footer" id="contato">
-                <?php require_once '../assets/php/view/form.php' ?>
             </div>
             <div class="sombra-full"></div>
             <div class="msg-form">
@@ -129,5 +121,4 @@
         </main>
         <?php require_once '../assets/php/view/footer.php' ?>
     </body>
-
 </html>
