@@ -15,4 +15,5 @@
     <link rel="stylesheet" href="../assets/fonts/font-awesome-4.6.3/css/font-awesome.min-v=1.1.5.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300i" rel="stylesheet">
     <script src="../assets/js/jquery-2.2.3.min.js?v=1.1.5"></script>
+    <script src="../assets/js/script.js?v=1.1.5"></script>
 </head>
